@@ -39,11 +39,11 @@ Po pokretanju aplikacije otvara se forma za **prijavu**.
 Uspješnom prijavom korisnik se preusmjerava na odgovarajući interfejs u zavisnosti od uloge.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/pocetni_ekran.png" alt="Početni ekran - prijava" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/pocetni_ekran.png" alt="Početni ekran - prijava" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/korisnik_prikaz.png" alt="Prikaz za korisnika" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/korisnik_prikaz.png" alt="Prikaz za korisnika" width="700"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ Korisnik može da unosi:
 - Datum i vrijeme unosa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/unos_obroka.png" alt="Unos obroka" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/unos_obroka.png" alt="Unos obroka" width="700"/>
 </p>
 
 #### Aktivnosti:
@@ -70,14 +70,14 @@ Korisnik može da unosi:
 - Datum i vrijeme aktivnosti
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/unos_aktivnosti.png" alt="Unos aktivnosti" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/unos_aktivnosti.png" alt="Unos aktivnosti" width="700"/>
 </p>
 
 #### Ciljani dnevni unos kalorija:
 Korisnik može unijeti **lični cilj** – broj kalorija koji planira da unese tokom dana. Ovaj cilj se koristi za poređenje u bilansu kalorija.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/cilj.png" alt="Unos cilja kalorija" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/cilj.png" alt="Unos cilja kalorija" width="700"/>
 </p>
 
 Sve stavke se prikazuju u tabelama sa mogućnošću:
@@ -89,11 +89,11 @@ Tabele omogućavaju filtriranje po nazivu i tipu radi lakšeg pretraživanja.
 Korisnik može pregledati **sve prethodno unesene obroke i aktivnosti**, sortirane po datumu.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/pregled_obroka.png" alt="Pregled unosa obroka" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/pregled_obroka.png" alt="Pregled unosa obroka" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/pregled_aktivnosti.png" alt="Pregled aktivnosti" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/pregled_aktivnosti.png" alt="Pregled aktivnosti" width="700"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ Prikaz bilansa je kombinovan:
 - Vizualno (boje)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/bilans.png" alt="Prikaz bilansa kalorija" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/bilans.png" alt="Prikaz bilansa kalorija" width="700"/>
 </p>
 
 ---
@@ -151,11 +151,11 @@ Aplikacija podržava sljedeće opcije:
 - Može pregledati sve podatke vezane za korisnike
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/pregled_korisnika.png" alt="Pregled korisnika" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/pregled_korisnika.png" alt="Pregled korisnika" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexic11/fit-kalorije-app/main/images/admin_prikaz.png" alt="Administrator prikaz" width="700"/>
+  <img src="https://raw.githubusercontent.com/Alexic11/app_fit/main/images/admin_prikaz.png" alt="Administrator prikaz" width="700"/>
 </p>
 
 ---
@@ -176,4 +176,4 @@ Aplikacija podržava sljedeće opcije:
 Za dodatne informacije ili tehničku podršku:
 
 **milan2001alexic@hotmail.com**  
-GitHub: [https://github.com/Alexic11/fit-kalorije-app](https://github.com/Alexic11/fit-kalorije-app)
+GitHub: [https://github.com/Alexic11/app_fit](https://github.com/Alexic11/app_fit)
