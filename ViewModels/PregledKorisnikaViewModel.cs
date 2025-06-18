@@ -63,6 +63,8 @@ namespace Fit.ViewModels
                     novi.Lozinka = HashPassword(novi.Lozinka);
                 }
 
+                novi.IdRole = 2;
+
                 _context.Korisniks.Add(novi);
                 _context.SaveChanges();
                 LoadKorisnici();
