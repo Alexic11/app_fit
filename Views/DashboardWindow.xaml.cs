@@ -12,7 +12,6 @@ namespace Fit.Views
             InitializeComponent();
             _idKorisnik = idKorisnik;
 
-            // Dodavanje handlera za dugmad
             btnUnosCilja.Click += BtnUnosCilja_Click;
             btnUnosHrane.Click += BtnUnosHrane_Click;
             btnUnosAktivnosti.Click += BtnUnosAktivnosti_Click;

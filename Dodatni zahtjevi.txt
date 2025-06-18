@@ -1,0 +1,15 @@
+Pored osnovnih funkcionalnosti definisanih u okviru prvog projektnog zadatka, implementirani su i svi dodatni zahtjevi, uključujući:
+
+Dva tipa korisničkih naloga (korisnik i administrator)
+
+Podršku za dva jezika (internacionalizacija)
+
+Tri različite teme interfejsa
+
+Detaljno i pregledno korisničko uputstvo
+
+Za potrebe demonstracije i testiranja sistema, omogućena je prijava putem unaprijed definisanih korisničkih naloga.
+Korisničko ime za administratora je admin, dok je lozinka takođe admin.
+Korisničko ime za korisnika je m, dok je lozinka 1.
+
+Takođe, link do javnog repozitorijuma na GitHub-u: https://github.com/Alexic11/app_fit.

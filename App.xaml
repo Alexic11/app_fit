@@ -15,7 +15,6 @@
                 <ResourceDictionary x:Name="LanguageResources" Source="Languages/StringResources.sr.xaml"/>
             </ResourceDictionary.MergedDictionaries>
 
-            <!-- DropShadow efekat koji možeš koristiti globalno -->
             <DropShadowEffect x:Key="DropShadowEffectResource"
                               ShadowDepth="5"
                               Direction="270"
@@ -23,7 +22,6 @@
                               BlurRadius="10"
                               Opacity="0.5"/>
 
-            <!-- Tvoje poruke -->
             <sys:String x:Key="SuccessfulRegistration">Uspešna registracija!</sys:String>
             <sys:String x:Key="NotificationTitle">Obaveštenje</sys:String>
         </ResourceDictionary>

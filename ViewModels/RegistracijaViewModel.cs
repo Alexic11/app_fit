@@ -85,7 +85,7 @@ namespace Fit.ViewModels
 
             string hashedPass = HashPassword(NewKorisnik.Lozinka);
             NewKorisnik.Lozinka = hashedPass;
-            NewKorisnik.IdRole = 2; // pretpostavka: 2 = običan korisnik
+            NewKorisnik.IdRole = 2;
             context.Korisniks.Add(NewKorisnik);
             context.SaveChanges();
 

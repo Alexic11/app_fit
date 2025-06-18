@@ -17,7 +17,6 @@ namespace Fit.ViewModels
 
         public int IdTrenutnogKorisnika { get; }
 
-        // Int property-jevi (za logiku)
         private int _uneseneKalorije;
         public int UneseneKalorije
         {
@@ -78,7 +77,6 @@ namespace Fit.ViewModels
             }
         }
 
-        // String property-jevi za XAML binding (s dodanim "kcal" i sl.)
         public string UneseneKalorijeText => $"{UneseneKalorije} kcal";
         public string PotroseneKalorijeText => $"{PotroseneKalorije} kcal";
         public string CiljKalorijaText => $"{CiljKalorija} kcal";
@@ -99,7 +97,6 @@ namespace Fit.ViewModels
             }
         }
 
-        // Konstruktor prima ID korisnika (ili možeš napraviti default bez parametra)
         public BilansViewModel(int korisnikId = 0)
         {
             IdTrenutnogKorisnika = korisnikId;
@@ -115,7 +112,7 @@ namespace Fit.ViewModels
                 .Where(o => o.IdKorisnik == IdTrenutnogKorisnika && o.DatumVrijeme.Date == danas)
                 .Sum(o => (int?)o.Kalorije) ?? 0;
 
-            // 2. Potrošene kalorije - sumiraj za svaku aktivnost trajanje * kalorije po minutu iz tipa aktivnosti
+            // 2. Potrošene kalorije 
             var aktivnosti = _context.Aktivnosts
                 .Include(a => a.IdTipaAktivnostiNavigation)
                 .Where(a => a.IdKorisnika == IdTrenutnogKorisnika && a.DatumVrijeme.Date == danas)

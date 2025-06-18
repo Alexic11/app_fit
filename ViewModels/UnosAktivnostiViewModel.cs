@@ -105,7 +105,6 @@ namespace Fit.ViewModels
                 return;
             }
 
-            // Kombinovanje datuma i vremena u DateTime
             DateTime datumVrijeme = DatumUnosa.Value.Date + vrijeme;
 
             var novaAktivnost = new Aktivnost

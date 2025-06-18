@@ -60,7 +60,7 @@ namespace Fit.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Fit;V1.0.0.0;component/views/admindashboardwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Fit;component/views/admindashboardwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AdminDashboardWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

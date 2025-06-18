@@ -10,7 +10,6 @@ namespace Fit.Views
         {
             InitializeComponent();
             AdminId = adminId;
-            // Možeš da koristiš AdminId ako bude trebalo kasnije za logiku
 
             btnPregledKorisnika.Click += BtnPregledKorisnika_Click;
 

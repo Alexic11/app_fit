@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Jelena\\Desktop\\Fit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledkorisnikaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledkorisnikaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledaktivnostiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledaktivnostiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\languages\\stringresources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:languages\\stringresources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\languages\\stringresources.sr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:languages\\stringresources.sr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\unoshranewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\unoshranewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\unosciljawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\unosciljawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\unosaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\unosaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\statistikawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\statistikawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\prikazunosawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\prikazunosawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledkorisnikaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledkorisnikaview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\korisnikformawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\korisnikformawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\bilanswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\bilanswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\admindashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\admindashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\admindashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\admindashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\unoshraneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +79,80 @@
       "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\unosaktivnostiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\registracijaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\registracijaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\prikazunosaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\prikazunosaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\prikazaktivnostiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\prikazaktivnostiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledaktivnostiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\pregledkorisnikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\pregledkorisnikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\viewmodels\\bilansviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:viewmodels\\bilansviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\tipobroka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\tipobroka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\tipaktivnosti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\tipaktivnosti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\rola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\rola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\fitappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\fitappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\cilj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\cilj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\models\\aktivnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:models\\aktivnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledkorisnikaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledkorisnikaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\views\\pregledaktivnostiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:views\\pregledaktivnostiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\languages\\stringresources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:languages\\stringresources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|c:\\users\\jelena\\desktop\\fit\\languages\\stringresources.sr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45C26B70-A465-46AE-B37E-173FBDC25FD1}|Fit.csproj|solutionrelative:languages\\stringresources.sr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,35 +162,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PregledKorisnikaView.xaml",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml",
-              "RelativeDocumentMoniker": "Views\\PregledKorisnikaView.xaml",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml",
-              "RelativeToolTip": "Views\\PregledKorisnikaView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-16T22:24:20.689Z",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:32:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnosHraneWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosHraneWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UnosHraneWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosHraneWindow.xaml.cs",
+              "RelativeToolTip": "Views\\UnosHraneWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:38.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
+              "Title": "UnosCiljaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosCiljaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UnosCiljaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosCiljaWindow.xaml.cs",
+              "RelativeToolTip": "Views\\UnosCiljaWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:18:00.219Z"
+              "WhenOpened": "2025-06-17T10:31:34.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "UnosAktivnostiWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosAktivnostiWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UnosAktivnostiWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\UnosAktivnostiWindow.xaml.cs",
+              "RelativeToolTip": "Views\\UnosAktivnostiWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -98,7 +230,394 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:18:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatistikaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\StatistikaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StatistikaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\StatistikaWindow.xaml.cs",
+              "RelativeToolTip": "Views\\StatistikaWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:27.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrikazUnosaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PrikazUnosaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PrikazUnosaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PrikazUnosaWindow.xaml.cs",
+              "RelativeToolTip": "Views\\PrikazUnosaWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PregledKorisnikaView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PregledKorisnikaView.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml.cs",
+              "RelativeToolTip": "Views\\PregledKorisnikaView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:13.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KorisnikFormaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\KorisnikFormaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\KorisnikFormaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\KorisnikFormaWindow.xaml.cs",
+              "RelativeToolTip": "Views\\KorisnikFormaWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "Views\\DashboardWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:30:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BilansWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\BilansWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BilansWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\BilansWindow.xaml.cs",
+              "RelativeToolTip": "Views\\BilansWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:30:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\AdminDashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminDashboardWindow.xaml",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\AdminDashboardWindow.xaml",
+              "RelativeToolTip": "Views\\AdminDashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T10:30:32.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PregledAktivnostiWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledAktivnostiWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PregledAktivnostiWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledAktivnostiWindow.xaml.cs",
+              "RelativeToolTip": "Views\\PregledAktivnostiWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:00:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\AdminDashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminDashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\AdminDashboardWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminDashboardWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:30:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistracijaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\RegistracijaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegistracijaViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\RegistracijaViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegistracijaViewModel.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:29:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrikazUnosaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazUnosaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PrikazUnosaViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazUnosaViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PrikazUnosaViewModel.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:29:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnosAktivnostiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosAktivnostiViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UnosAktivnostiViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosAktivnostiViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UnosAktivnostiViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:01:46.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnosCiljaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosCiljaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UnosCiljaViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosCiljaViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UnosCiljaViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAE8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:03:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnosHraneViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosHraneViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UnosHraneViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosHraneViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UnosHraneViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T22:03:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PregledKorisnikaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PregledKorisnikaViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PregledKorisnikaViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PregledKorisnikaViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PregledKorisnikaViewModel.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:27:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BilansViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\BilansViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BilansViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\BilansViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BilansViewModel.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:26:01.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipObroka.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\TipObroka.cs",
+              "RelativeDocumentMoniker": "Models\\TipObroka.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\TipObroka.cs",
+              "RelativeToolTip": "Models\\TipObroka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TipAktivnosti.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\TipAktivnosti.cs",
+              "RelativeDocumentMoniker": "Models\\TipAktivnosti.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\TipAktivnosti.cs",
+              "RelativeToolTip": "Models\\TipAktivnosti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:54.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Rola.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Rola.cs",
+              "RelativeDocumentMoniker": "Models\\Rola.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Rola.cs",
+              "RelativeToolTip": "Models\\Rola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Obrok.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Obrok.cs",
+              "RelativeDocumentMoniker": "Models\\Obrok.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Obrok.cs",
+              "RelativeToolTip": "Models\\Obrok.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:44.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrikazAktivnostiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazAktivnostiViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PrikazAktivnostiViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazAktivnostiViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PrikazAktivnostiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:00:32.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "Models\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Korisnik.cs",
+              "RelativeToolTip": "Models\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:40.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FitAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\FitAppContext.cs",
+              "RelativeDocumentMoniker": "Models\\FitAppContext.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\FitAppContext.cs",
+              "RelativeToolTip": "Models\\FitAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:29:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Models\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\CurrentUser.cs",
+              "RelativeToolTip": "Models\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cilj.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Cilj.cs",
+              "RelativeDocumentMoniker": "Models\\Cilj.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Cilj.cs",
+              "RelativeToolTip": "Models\\Cilj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Aktivnost.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Aktivnost.cs",
+              "RelativeDocumentMoniker": "Models\\Aktivnost.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Models\\Aktivnost.cs",
+              "RelativeToolTip": "Models\\Aktivnost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:25:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PregledKorisnikaView.xaml",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml",
+              "RelativeDocumentMoniker": "Views\\PregledKorisnikaView.xaml",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledKorisnikaView.xaml",
+              "RelativeToolTip": "Views\\PregledKorisnikaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T22:24:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "PregledAktivnostiWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledAktivnostiWindow.xaml",
               "RelativeDocumentMoniker": "Views\\PregledAktivnostiWindow.xaml",
@@ -109,31 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnosCiljaViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosCiljaViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UnosCiljaViewModel.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosCiljaViewModel.cs",
-              "RelativeToolTip": "ViewModels\\UnosCiljaViewModel.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAqwE8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:03:07.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UnosAktivnostiViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosAktivnostiViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UnosAktivnostiViewModel.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosAktivnostiViewModel.cs",
-              "RelativeToolTip": "ViewModels\\UnosAktivnostiViewModel.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:01:46.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 36,
               "Title": "StringResources.en.xaml",
               "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Languages\\StringResources.en.xaml",
               "RelativeDocumentMoniker": "Languages\\StringResources.en.xaml",
@@ -144,31 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:29:28.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnosHraneViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosHraneViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UnosHraneViewModel.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\UnosHraneViewModel.cs",
-              "RelativeToolTip": "ViewModels\\UnosHraneViewModel.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAqwMsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:03:56.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 37,
               "Title": "StringResources.sr.xaml",
               "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Languages\\StringResources.sr.xaml",
               "RelativeDocumentMoniker": "Languages\\StringResources.sr.xaml",
@@ -177,30 +648,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-16T21:12:10.009Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PrikazAktivnostiViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazAktivnostiViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\PrikazAktivnostiViewModel.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\ViewModels\\PrikazAktivnostiViewModel.cs",
-              "RelativeToolTip": "ViewModels\\PrikazAktivnostiViewModel.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAqwIcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:00:32.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PregledAktivnostiWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledAktivnostiWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\PregledAktivnostiWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Fit\\Views\\PregledAktivnostiWindow.xaml.cs",
-              "RelativeToolTip": "Views\\PregledAktivnostiWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:00:26.863Z"
             }
           ]
         }

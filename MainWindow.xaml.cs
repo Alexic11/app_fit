@@ -15,7 +15,6 @@ namespace Fit
         public MainWindow()
         {
             InitializeComponent();
-            // Na startu učitaj srpski kao podrazumevani jezik
             SetLanguageDictionary("Languages/StringResources.sr.xaml");
         }
 
@@ -31,7 +30,6 @@ namespace Fit
             var theme = Theme.Create(BaseTheme.Light, SwatchHelper.Lookup[MaterialDesignColor.LightGreen], SwatchHelper.Lookup[MaterialDesignColor.Lime]);
             _paletteHelper.SetTheme(theme);
 
-            // Promeni pozadinu glavnog Grid-a za svetlu temu
             MainGrid.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#f5f5f5"));
         }
 
@@ -40,7 +38,6 @@ namespace Fit
             var theme = Theme.Create(BaseTheme.Dark, SwatchHelper.Lookup[MaterialDesignColor.DeepPurple], SwatchHelper.Lookup[MaterialDesignColor.Indigo]);
             _paletteHelper.SetTheme(theme);
 
-            // Promeni pozadinu glavnog Grid-a za tamnu temu
             MainGrid.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#202020"));
         }
 
@@ -49,7 +46,6 @@ namespace Fit
             var theme = Theme.Create(BaseTheme.Light, SwatchHelper.Lookup[MaterialDesignColor.Pink], SwatchHelper.Lookup[MaterialDesignColor.DeepPurple]);
             _paletteHelper.SetTheme(theme);
 
-            // Promeni pozadinu glavnog Grid-a za šarenu temu
             MainGrid.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#FFE4E1"));
         }
 
@@ -66,13 +62,11 @@ namespace Fit
 
         private void SetLanguageDictionary(string dictionaryPath)
         {
-            // Ukloni prethodni jezički ResourceDictionary ako postoji
             var dictionaries = Application.Current.Resources.MergedDictionaries;
             var langDict = dictionaries.FirstOrDefault(d => d.Source != null && d.Source.OriginalString.Contains("StringResources"));
             if (langDict != null)
                 dictionaries.Remove(langDict);
 
-            // Dodaj novi
             var newDict = new ResourceDictionary() { Source = new System.Uri(dictionaryPath, System.UriKind.Relative) };
             dictionaries.Add(newDict);
         }

@@ -52,7 +52,7 @@ namespace Fit.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Fit;V1.0.0.0;component/views/bilanswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Fit;component/views/bilanswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\BilansWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
